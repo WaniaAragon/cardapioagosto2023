@@ -7,13 +7,13 @@ body,html{
 #destaque{
     background-image: url(./img/bauru.jpg);
     text-align: center;
-    text-size-adjust: 5%;
+    text-size-adjust: 10%;
     color: black;
     height: 300px;
 }
 .itens{
     width: 20%;
-    border: 10px solid yellow;
+    border: 10px solid rgb(0, 195, 255);
     float: left;
     text-align: center;
     padding: 3%;
